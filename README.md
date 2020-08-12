@@ -35,6 +35,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/1297?activityId=5&direc
   - 项目|AI Studio基本操作(一) Notebook篇 [链接](https://aistudio.baidu.com/aistudio/projectdetail/691368)
   - 项目|Python基础 [链接](https://aistudio.baidu.com/aistudio/projectdetail/691394)
   - 文档|预习资料 [链接](https://aistudio.baidu.com/aistudio/education/preview/523420)
+- 课节2: 
 
 ### 课程作业:
 
